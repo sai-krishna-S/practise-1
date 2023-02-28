@@ -1,0 +1,64 @@
+body{
+
+    background-color:#00001a;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.main-container{
+    display: flex;
+    background-color:#33334d ;
+    width: 70rem;
+    height: 28rem;
+    text-align: center;
+    margin: auto;
+    margin-top: 200px;
+}
+.left{
+width: 35rem;
+height: 400px;
+text-align: left;
+margin-left: 50px;
+margin-top: 50px;
+line-height: 2rem;
+
+
+}
+.right{
+    width: 35rem;
+    height: 400px;
+    image-orientation: inherit;
+}
+
+#in-color{
+    color: violet;
+}
+.comp{
+    color: white;
+    padding-right: 100px;
+    margin: 0;
+}
+table{
+    padding-top: 50px;
+}
+#p1{
+    color: white;
+}
+p{
+    color: white;
+    margin: 0;
+    display: block;
+    padding-top: 10px;
+    
+}
+.margin-p{
+    color: darkgrey;
+}
+.color-t{
+    color: darkgrey;
+}
+
+img {
+    filter: sepia(100%) saturate(300%) brightness(70%) hue-rotate(180deg);
+  }
